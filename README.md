@@ -21,7 +21,7 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 
 ## SUMÁRIO
 
-- [Instruções para acessar o projeto e executar o projeto](#instruções-para-acessar-o-projeto-e-executar-o-projeto)
+- [Instruções para acessar o projeto e executar o projeto](#instruções-para-acessar-e-executar-o-projeto)
 - [Habilidades](#habilidades)
   - [Hard Skills](#hard-skills)
   - [Soft Skills](#soft-skills)
