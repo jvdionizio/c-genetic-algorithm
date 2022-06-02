@@ -107,7 +107,8 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
 ### Casos de Teste
 
   <details>
-    <summary>Caso 1</summary>
+    <summary><strong>Caso 1</strong></summary>
+
     Tamanho da População: 20
 
     Taxa de Mutação(%): 7
@@ -177,7 +178,8 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
   </details>
 
   <details>
-    <summary>Caso 2</summary>
+    <summary><strong>Caso 2</strong></summary>
+
     Tamanho da População: 30
 
     Taxa de Mutação(%): 7
@@ -260,7 +262,8 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
   </details>
 
   <details>
-    <summary>Caso 3</summary>
+    <summary><strong>Caso 3</strong></summary>
+
     Tamanho da População: 30
 
     Taxa de Mutação(%): 7
@@ -343,7 +346,8 @@ Aqui você vai encontrar os detalhes sobre o desenvolvimento do projeto, habilid
   </details>
 
   <details>
-  <summary>Caso 4</summary>
+  <summary><strong>Caso 4</strong></summary>
+
     Tamanho da População: 30
 
     Taxa de Mutação(%): 7
